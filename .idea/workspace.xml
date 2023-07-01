@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eaf61b3-e286-4870-850e-61caf55a51c4" name="Changes" comment="Configurado o banco de dados h2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
+    <list default="true" id="6eaf61b3-e286-4870-850e-61caf55a51c4" name="Changes" comment="Criação de instancia da JPA repository e criação de endpoint.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688081627022</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criação de instancia da JPA repository e criação de endpoint.">
+      <created>1688174827312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688174827312</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +138,7 @@
     <MESSAGE value="Adicionado as classes Department e User junto aos métodos construtores, get e set." />
     <MESSAGE value="Feito mapeamento objeto relacional e atualizado o pom.xml" />
     <MESSAGE value="Configurado o banco de dados h2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurado o banco de dados h2" />
+    <MESSAGE value="Criação de instancia da JPA repository e criação de endpoint." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de instancia da JPA repository e criação de endpoint." />
   </component>
 </project>
